@@ -1,6 +1,6 @@
 # Github Assignment
 
 This project contains...
-- **One** directory
-- **Two** subdirectories
-- **Three** html files inside each subdirectory which contain sentences.
+1. **One** directory
+2. **Two** subdirectories
+3. **Three** html files inside each subdirectory which contain sentences.
